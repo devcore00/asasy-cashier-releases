@@ -44,7 +44,8 @@
 - الهاتف: **01558200078**
 - البريد الإلكتروني: **[info@devcoreone.com](mailto:info@devcoreone.com)**
 - الموقع: **[devcoreone.com](https://devcoreone.com)**
-- فيسبوك: **[DevCoreAgency](https://facebook.com/DevCoreAgency)**
+- فيسبوك: **[DevCore](https://facebook.com/devcore.agency)**
+- إنستغرام: **[DevCore](https://www.instagram.com/devcore.agency)**
 
 بيانات التواصل وشروط الاستخدام وسياسة الخصوصية موجودة كمان جوه البرنامج، من أيقونة **الدعم الفني** (السماعة) اللي فوق.
 
